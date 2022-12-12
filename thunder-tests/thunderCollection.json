@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "def1d73a-fd5a-461f-be7b-27fc5a1b9dba",
+    "colName": "MinimalAPI.Workshop",
+    "created": "2022-12-12T06:44:52.779Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "272740e9-ff4d-4378-8436-b1110a532b41",
+        "name": "0. Microsoft.Learn",
+        "containerId": "",
+        "created": "2022-12-12T06:44:52.786Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "258c6cdb-9b51-4452-8d6f-fc176c7284d3",
+        "name": "1. Vergleich",
+        "containerId": "",
+        "created": "2022-12-12T06:44:52.787Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "62deabd7-9928-47ee-b982-43e20b226d47",
+        "name": "2. Strukturierung",
+        "containerId": "",
+        "created": "2022-12-12T06:44:52.788Z",
+        "sortNum": 30000
+      },
+      {
+        "_id": "8bd37eb6-77be-4544-a686-be205f1c2759",
+        "name": "2.1. ExtensionMethods",
+        "containerId": "62deabd7-9928-47ee-b982-43e20b226d47",
+        "created": "2022-12-12T06:44:52.789Z",
+        "sortNum": 40000
+      },
+      {
+        "_id": "c3462dda-97ea-470b-9b1c-12644591d75b",
+        "name": "2.2. Reflection",
+        "containerId": "62deabd7-9928-47ee-b982-43e20b226d47",
+        "created": "2022-12-12T06:44:52.790Z",
+        "sortNum": 50000
+      },
+      {
+        "_id": "faeedbe6-7872-4ae2-8fc8-87cafbf5ad8a",
+        "name": "2.3. Mediator",
+        "containerId": "62deabd7-9928-47ee-b982-43e20b226d47",
+        "created": "2022-12-12T06:44:52.791Z",
+        "sortNum": 60000
+      },
+      {
+        "_id": "dbdcd496-eb14-4b6f-a41d-0cc224922be2",
+        "name": "3. Filter",
+        "containerId": "",
+        "created": "2022-12-12T06:44:52.792Z",
+        "sortNum": 70000
+      },
+      {
+        "_id": "17602b3c-f99f-4788-b360-36627955aef4",
+        "name": "3.1. Dotnet 6",
+        "containerId": "dbdcd496-eb14-4b6f-a41d-0cc224922be2",
+        "created": "2022-12-12T06:44:52.793Z",
+        "sortNum": 80000
+      },
+      {
+        "_id": "9ed8646e-9fba-4c45-9e88-ef5b8b6f203e",
+        "name": "3.2. Dotnet 7",
+        "containerId": "dbdcd496-eb14-4b6f-a41d-0cc224922be2",
+        "created": "2022-12-12T06:44:52.794Z",
+        "sortNum": 90000
+      }
+    ]
+  }
+]
